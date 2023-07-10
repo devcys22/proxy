@@ -18,3 +18,7 @@
 <img src="https://github.com/devcys22/proxy/assets/78769412/c7bf5b20-f245-412f-a15c-412b5bd62a3a">
 <h4>동적 프록시 도입 후</h4>
 <img src="https://github.com/devcys22/proxy/assets/78769412/f32444f8-352a-4c83-a14c-06a19680891d">
+
+<h4>스프링이 지원하는 프록시</h4>
+<h5>어드바이저</h5>
+<img src="https://github.com/devcys22/proxy/assets/78769412/031537da-79f6-460e-adc1-787b15fd2958">
