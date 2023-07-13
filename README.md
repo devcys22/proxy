@@ -22,3 +22,6 @@
 <h4>스프링이 지원하는 프록시</h4>
 <h5>어드바이저</h5>
 <img src="https://github.com/devcys22/proxy/assets/78769412/031537da-79f6-460e-adc1-787b15fd2958">
+
+<h4>하나의 프록시, 여러 어드바이저</h4>
+<img src="https://github.com/devcys22/proxy/assets/78769412/18ded876-8565-45e6-a9c2-e9dc085c0037">
